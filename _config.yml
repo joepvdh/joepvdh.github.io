@@ -11,7 +11,7 @@ minima:
 
 # Navigation links in the top header
 header_pages:
-  - index.md
+  - index.md # index.md
   - projects.md
   - contact.md
 
