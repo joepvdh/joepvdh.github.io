@@ -6,6 +6,9 @@ remote_theme: son-link/jekyll-simple-dark
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+paginate: 5 # Posts per page
+paginate_path: "page:num/"
 
 # minima:
 #  skin: dark # Enforces pure dark mode  
@@ -22,4 +25,7 @@ header_pages:
   - contact.md
 
 # socials
-linkedin_url: "https://linkedin.com/hovenit"
+# linkedin_url: "https://linkedin.com/hovenit"
+social_links: true  # If true show social links
+rss: false # For remove icon to link feed.xml
+linkedin: "https://linkedin.com/hovenit"
