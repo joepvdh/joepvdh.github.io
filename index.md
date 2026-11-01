@@ -9,7 +9,7 @@ permalink: /
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 Here are some of the technologies and frameworks I work with regularly to bring projects to life:
 
