@@ -1,6 +1,6 @@
 # HovenIT
-Custom Software Solutions in The Netherlands
+Custom Software & Software Architecture Solutions in The Netherlands
 
 Contact me through here.
 
-HovenIT
+_HovenIT_
