@@ -1,7 +1,7 @@
 title: HovenIT
 description: Custom Software & Software Architecture Solutions in The Netherlands. Copyright © HovenIT 2027.
 # theme: minima # old minima v2 theme
-remote_theme: jekyll/minima@master
+remote_theme: jekyll/minima@master 
 # jekyll/minima
 
 plugins:
