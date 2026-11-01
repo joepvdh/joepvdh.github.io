@@ -1,21 +1,25 @@
 title: HovenIT
 description: Custom Software & Software Architecture Solutions in The Netherlands. Copyright © HovenIT 2027.
 # theme: minima # old minima v2 theme
-remote_theme: jekyll/minima
+remote_theme: son-link/jekyll-simple-dark
+# jekyll/minima
 
 plugins:
   - jekyll-remote-theme
 
-minima:
-  skin: dark # Enforces pure dark mode  
-  hide_rss: true # This completely turns off the footer feed.xml text/icon
-  social_links:
-  - title: "Connect with me on LinkedIn"
-    icon: linkedin
-    url: "https://linkedin.com/hovenit"
+# minima:
+#  skin: dark # Enforces pure dark mode  
+#  hide_rss: true # This completely turns off the footer feed.xml text/icon
+#  social_links:
+#  - title: "Connect with me on LinkedIn"
+#    icon: linkedin
+#    url: "https://linkedin.com/hovenit"
 
 # Navigation links in the top header
 header_pages:
   - index.md # index.md
   - projects.md
   - contact.md
+
+# socials
+linkedin_url: "https://linkedin.com/hovenit"
