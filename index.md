@@ -23,4 +23,3 @@ For more information using the menu links above.
 
 Contact me through here.
 
-_Copyright © HovenIT 2027 All Rights Reserved._
