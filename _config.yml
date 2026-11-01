@@ -7,8 +7,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
-# minima:
-#  skin: dark # Enforces pure dark mode  
+minima:
+  skin: dark # Enforces pure dark mode  
 #  hide_rss: true # This completely turns off the footer feed.xml text/icon
 #  social_links:
 #  - title: "Connect with me on LinkedIn"
