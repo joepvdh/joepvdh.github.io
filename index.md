@@ -13,7 +13,7 @@ permalink: /
 
 Here are some of the technologies and frameworks I work with on projects:
 
-* **Frontend:** C++, C, C#, Java, Haskell, Assembly (asm32), JavaScript (ES6+), TailwindCSS
+* **Frontend:** C++, C, C#, Java, Haskell, Assembly (asm32), TypeScript, JavaScript (ES6+), CSS
 * **Backend & Databases:** Node.js, Spring, SQL, MongoDB
 * **Tools & Platforms:** Git, Docker, Unix, Windows
 
