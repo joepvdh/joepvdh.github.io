@@ -7,8 +7,11 @@ plugins:
 
 minima:
   skin: dark # Enforces pure dark mode  
+  hide_rss: true # This completely turns off the footer feed.xml text/icon
   social_links:
-    - { platform: linkedin, user_url: "https://linkedin.com/hovenit" }
+  - title: "Connect with me on LinkedIn"
+    icon: linkedin
+    url: "https://linkedin.com/hovenit"
 
 # Navigation links in the top header
 header_pages:
