@@ -11,7 +11,7 @@ permalink: /
 
 ## Tech Stack & Skills
 
-Here are some of the technologies and frameworks I work with regularly to bring projects to life:
+Here are some of the technologies and frameworks I work with on projects:
 
 * **Frontend:** C++, C, C#, Java, Haskell, Assembly (asm32), JavaScript (ES6+), TailwindCSS
 * **Backend & Databases:** Node.js, Spring, PostgreSQL, MongoDB
