@@ -1,3 +1,20 @@
-theme: jekyll-theme-midnight
-title: HovenIT homepage
-description: Bookmark this to contact me or view my projects!
+title: HovenIT
+description: Developer Portfolio & Projects
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+minima:
+  skin: dark # Enforces pure dark mode
+
+# Navigation links in the top header
+header_pages:
+  - index.md
+  - projects.md
+  - contact.md
+
+# Footer social links (fill in yours, delete what you don't use)
+github_username: joepvdh
+linkedin_username: hovenit
