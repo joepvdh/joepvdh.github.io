@@ -7,14 +7,12 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: dark # Enforces pure dark mode
+  skin: dark # Enforces pure dark mode  
+  social_links:
+    - { platform: linkedin, user_url: "https://linkedin.com/hovenit" }
 
 # Navigation links in the top header
 header_pages:
   - index.md # index.md
   - projects.md
   - contact.md
-
-# Footer social links (fill in yours, delete what you don't use)
-github_username: joepvdh
-linkedin_username: hovenit
